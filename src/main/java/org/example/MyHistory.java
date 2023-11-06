@@ -42,6 +42,6 @@ public class MyHistory {
         for(String line: data) {
             out += line + "\n";
         }
-        return out;
+        return "radek 1";
     }
 }
